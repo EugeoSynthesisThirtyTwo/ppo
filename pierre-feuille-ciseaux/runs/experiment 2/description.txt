@@ -1,0 +1,6 @@
+Agent
+1000 epochs
+1024 batch size
+0.001 learning rate
+
+Simple training with labelisation

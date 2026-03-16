@@ -1,0 +1,7 @@
+BigAgentModel
+20 epochs
+16 batch size
+0.05 learning rate
+adam optimizer
+
+Simple training with labelisation

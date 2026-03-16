@@ -1,0 +1,2 @@
+rajouter le temps en entrée du critic
+le bruit devra être soit un perlin noise sur la sortie, soit un bruit constant sur les poids
